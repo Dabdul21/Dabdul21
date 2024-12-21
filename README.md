@@ -1,6 +1,5 @@
 
-## 👋 Hi there! I'm Dayan a passionate developer focused on creating impactful projects that drive social good. 
-## 🔍 I'm interested in developing applications that provide resources and tools for underserved communities.
+## 👋 Hi I'm Dayan 
 <!--
 **Dabdul21/Dabdul21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
