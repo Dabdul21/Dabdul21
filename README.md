@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Dayan  
 
 ### 🔍 Explore My Work  
-Check out my projects and portfolio:  
+Old Fun Projects:  
 
 🌐 **[dayanabdulla.com](https://dayanabdulla.com)**
 
